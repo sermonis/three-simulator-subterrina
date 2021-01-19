@@ -1,4 +1,4 @@
-# subterrina
+# subterrina ([статья на Хабре](https://habr.com/ru/post/537964/))
 Simple javascript and HTML5's canvas 3D simulator game allowing you to be an iron mole driver. The project uses three-dimensional graphics of [three.js](https://github.com/mrdoob/three.js) library and controls of [dat.GUI](https://github.com/dataarts/dat.gui) library.
 [View online](https://yeryomin1.github.io/subterrina/).
 ## Current features
